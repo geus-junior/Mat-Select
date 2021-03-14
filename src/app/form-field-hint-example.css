@@ -1,0 +1,81 @@
+/* Input Border mat-form-field-appearance-outline *
+.mat-form-field-appearance-outline .mat-form-field-outline-end,
+.mat-form-field-appearance-outline .mat-form-field-outline-start {
+  border-width: 1px !important;
+  color: #dddfe1;
+}
+
+.mat-form-field-appearance-outline .mat-form-field-infix {
+  padding: 5px 0px 15px 0px !important;
+}
+
+.mat-form-field-appearance-outline .mat-form-field-flex {
+  padding-left: 0.25em !important;
+  margin-top: -0.25em !important;
+  position: relative !important;
+}
+
+/* Input Font *
+.mat-input-element {
+  caret-color: #696969;
+}
+
+.mat-form-field input {
+  color: #696969 !important;
+  font-family: Lato, "Helvetica Neue", sans-serif !important;
+  font-size: 13px !important;
+  letter-spacing: 0 !important;
+}*/
+
+/* Input Border mat-form-field-appearance-outline */
+.mat-form-field-appearance-outline .mat-form-field-outline-end, .mat-form-field-appearance-outline .mat-form-field-outline-start {
+    border-width: 1px !important;
+    color: #dddfe1;
+}
+
+.mat-form-field-appearance-outline .mat-form-field-infix {
+    padding: 2px 0 10px;
+}
+
+.mat-form-field-appearance-outline .mat-form-field-flex {
+    padding: 0 !important;
+    padding-left: .25em !important;
+    margin-top: -.25em !important;
+    position: relative !important;
+}
+
+/* Input Font */
+.mat-input-element {
+    caret-color: #696969;
+}
+
+.mat-form-field input {
+    color: #696969 !important;
+    font-family: Lato, "Helvetica Neue", sans-serif !important;
+    font-size: 13px !important;
+    letter-spacing: 0 !important;
+    padding: 5px 5px 4px !important;
+}
+
+/* Seta de seleção*/
+.mat-select-arrow {
+  color: #696969 !important;
+}
+
+.mat-select-arrow {
+  width: 2px !important;
+}
+
+.mat-select-arrow {
+  margin: 10px 17px 5px 5px!important;
+}
+
+.mat-option-text,
+.mat-select,
+.mat-select-value-text {
+  color: #696969 !important;
+  font-family: Lato, "Helvetica Neue", sans-serif !important;
+  font-size: 13px !important;
+  letter-spacing: 0 !important;
+  padding: 2px 5px !important;
+}
